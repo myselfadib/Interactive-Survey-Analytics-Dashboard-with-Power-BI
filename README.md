@@ -18,9 +18,6 @@ This project demonstrates the power of Microsoft Power BI in transforming raw su
 - Geographic maps for global salary trends.
 - Gauge visualizations to depict satisfaction metrics like work-life balance and salary satisfaction.
 
-# Interactive Features:
-
-- Drill-down capabilities for demographic or geographic insights.
 
 # Insights Delivered
 - Regional salary disparities: Data scientists in the U.S. earn $139,000 on average compared to $68,000 in India.
@@ -40,8 +37,8 @@ This project demonstrates the power of Microsoft Power BI in transforming raw su
 - Deriving actionable insights from survey data to inform organizational decisions.
 
 # How to Explore
-Clone this repository.
-Open the Power BI .pbix file in Microsoft Power BI Desktop.
+- Clone this repository.
+- Open the Power BI .pbix file in Microsoft Power BI Desktop.
 
 Interact with the dashboard to explore salary trends, programming preferences, and satisfaction metrics.
 This project is an excellent resource for anyone looking to demonstrate expertise in Power BI, whether for professional portfolios or learning purposes. It highlights the end-to-end process of transforming raw data into meaningful insights through data analytics and visualization.
